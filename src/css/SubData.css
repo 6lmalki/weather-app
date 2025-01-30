@@ -1,0 +1,20 @@
+.sub-data {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.sub-data img {
+  height: 20px;
+  margin-right: 10px;
+}
+
+.details h3 {
+  color: white;
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+
+.details p {
+  color: white;
+}
