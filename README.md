@@ -1,7 +1,7 @@
 # 🌦️ Weather App
 
 ## 🌟 Overview
-This is a **React.js** weather application that allows users to search for weather information by city name. The app fetches real-time weather data from the **OpenWeatherMap API** and displays it in a clean and user-friendly interface. Built using **Vite** for modern frontend development and fast performance.
+This is a **React.js** weather application built with **JavaScript** and **Vite**. It allows users to search for weather information by city name. The app fetches real-time weather data from the **OpenWeatherMap API** and displays it in a clean and user-friendly interface. The project leverages **Vite** for modern frontend development and fast performance.
 
 ## ✨ Features
 - 🌍 **Search Weather by City** - Fetch and display weather data for any city worldwide.
@@ -11,6 +11,7 @@ This is a **React.js** weather application that allows users to search for weath
 
 ## 🛠️ Technologies Used
 - **React.js** (Functional Components, Hooks)
+- **JavaScript** (Programming Language)
 - **Vite** (Fast Development & Hot Module Replacement)
 - **CSS Modules** (Component Styling)
 - **OpenWeatherMap API** (Weather Data Fetching)
